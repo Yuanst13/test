@@ -1,0 +1,39 @@
+{
+    "configurations": [
+
+
+
+        
+        {
+            "arg": [],
+            "name": "launch",
+            "program": "${workspaceFolder}",
+            "request": "launch",
+            "stopOnEntry": true,
+            "type": "lua"
+        },
+        {
+            "name": "launch process",
+            "request": "launch",
+            "runtimeArgs": "${workspaceFolder}/main.lua",
+            "runtimeExecutable": "${workspaceFolder}/lua.exe",
+            "stopOnEntry": true,
+            "type": "lua"
+        },
+      
+        {
+            "address": "127.0.0.1:4278",
+            "name": "attach",
+            "request": "attach",
+            "stopOnEntry": true,
+            "type": "lua"
+        },
+        
+        {
+            "type": "lua",
+            "request": "launch",
+            "name": "Debug Current File",
+            "program": "${workspaceFolder}/test.lua"
+        }
+    ]
+}

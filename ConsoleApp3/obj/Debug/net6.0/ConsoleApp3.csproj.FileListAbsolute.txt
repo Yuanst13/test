@@ -1,0 +1,15 @@
+D:\test\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\test\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\test\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\test\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\test\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\test\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\test\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\test\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
